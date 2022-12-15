@@ -1,5 +1,6 @@
 Version 4.0.3
   1. Added LRC (Limited Release Colors) to Dabloon Bank Cards
+  2. Dabloon Bank will now notify the user if an update is available.
 
 Version 4.0.2
   1. Small Big Fixes
